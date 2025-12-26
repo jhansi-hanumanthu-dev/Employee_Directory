@@ -46,7 +46,7 @@ A **React Native** mobile application demonstrating an employee directory with A
 ![DetailsScreen](./src/assets/EmployeeDirectory_DetailsScreen_02.png)
 
 - **Search Functionality**  
-![Search Functionality](./src/assets/EmployeeDirectory_EmployeeDirectory_SearchFunctionality_03.png)
+![Search Functionality](./src//assets//EmployeeDirectory_Searchfunctionality_03.png)
 
 
 
